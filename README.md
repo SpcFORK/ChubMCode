@@ -1,5 +1,7 @@
 # ChubMCode Framework
 
+![ChubMCode Logo](hidden/chub.png)
+
 ChubMCode is a unique framework that utilizes HTML-Lang, a programming language designed to write code in an HTML-like syntax. By translating ChubML into standard HTML, ChubMCode enables developers to create dynamic web content that is then executed by HTMLL (HTML Language).
 
 ## Features
