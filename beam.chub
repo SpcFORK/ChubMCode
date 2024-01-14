@@ -1,0 +1,8 @@
+html;
+  body;
+    {=
+      src="hidden/html.js"
+    =};
+    {=
+      src="hidden/loader.js"
+    =};

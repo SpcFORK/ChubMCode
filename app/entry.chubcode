@@ -1,0 +1,10 @@
+html;
+  body;
+  
+    main;
+      // Push strike 'Hello World!' onto the stack
+      s;
+        "Hello World!";
+      
+      // Print the top of the stack
+      output;
